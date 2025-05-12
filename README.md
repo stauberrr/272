@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Un Corazón para Ti ❤️</title>
+    <title>Un Corazón para Ti 💜</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         /* Estilos para centrar el contenido y el corazón */
